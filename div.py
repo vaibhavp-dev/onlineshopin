@@ -1,4 +1,4 @@
-a = 10
-b = 2
+a = 15 
+b = 10
 result = a / b
 print(result)
